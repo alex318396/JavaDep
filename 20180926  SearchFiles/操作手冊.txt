@@ -1,0 +1,2 @@
+step 1: 將想要搜尋的檔案名稱複製到 fileList.txt 中
+step 2: 按下執行

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/b0126639/Desktop/alex/acer/JavaDep/20181018  AdjustAll/lib/jxl-2.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
